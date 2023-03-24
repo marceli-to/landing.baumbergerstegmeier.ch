@@ -1,0 +1,27 @@
+/* * {
+  background: rgb(0 100 0 / 0.05) !important;
+} */
+
+html {
+  overflow-y: scroll;
+}
+
+ul.dash {
+  @apply list-none mb-16
+}
+
+ul.dash li {
+  @apply list-item pl-16 lg:pl-0
+}
+
+ul.dash  li:before {
+  @apply content-['\2013'] absolute -ml-16
+}
+
+.hyphen-auto {
+  hyphens: auto;
+}
+
+.is-hidden {
+  @apply !hidden;
+}
