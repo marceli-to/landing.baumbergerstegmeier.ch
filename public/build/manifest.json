@@ -8,15 +8,15 @@
     "src": "resources/css/web/fonts/ESKlarheitBaumbergerStegmeier-Regular.woff"
   },
   "resources/js/web/app.css": {
-    "file": "assets/app-bbb98bec.css",
+    "file": "assets/app-56e31c45.css",
     "src": "resources/js/web/app.css"
   },
   "resources/js/web/app.js": {
-    "file": "assets/app-4d141a75.js",
+    "file": "assets/app-a7e9dc5f.js",
     "src": "resources/js/web/app.js",
     "isEntry": true,
     "css": [
-      "assets/app-bbb98bec.css"
+      "assets/app-56e31c45.css"
     ],
     "assets": [
       "assets/ESKlarheitBaumbergerStegmeier-Regular-dec87d79.woff2",
