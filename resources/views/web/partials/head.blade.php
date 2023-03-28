@@ -19,4 +19,4 @@
 <meta name="theme-color" content="#ffffff">
 @vite('resources/js/web/app.js')
 </head>
-<body class="antialised relative px-15 py-10 xl:px-95 xl:py-25 xl:mx-auto max-w-[1366px] text-md xl:text-lg font-regular">
+<body class="antialised relative px-15 py-10 xl:px-43 xl:py-23 xl:mx-auto max-w-[1366px] text-md xl:text-lg font-regular">
