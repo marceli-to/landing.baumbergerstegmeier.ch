@@ -11,7 +11,7 @@
       <x-swiper.slide :image="'baumberger-stegmeier-7'" :alt="''" />
     </x-swiper>
   </section>
-  <section class="md:flex md:justify-between mt-8 xl:mt-12">
+  <section class="md:flex md:justify-between mt-10 xl:mt-12">
     <div>
       <h1 class="text-xl xl:text-2xl leading-none mb-10 xl:mb-5 font-regular">1.4.23: Wir sind umgezogen</h1>
       <p class="mb-0 leading-6">Baumberger Stegmeier Architektur<br>Weststrasse 70, CH-8003 Zürich<br>
