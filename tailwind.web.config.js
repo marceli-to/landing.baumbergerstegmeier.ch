@@ -12,9 +12,9 @@ module.exports = {
 
     extend: {
       
-      // fontFamily: {
-      //   serif: ['Lily Script One', ...defaultTheme.fontFamily.sans],
-      // },
+      fontFamily: {
+        regular: ['ESKlarheitBaumbergerStegmeier-Regular', ...defaultTheme.fontFamily.sans],
+      },
 
       fontSize: {
         'xxs': '0.5rem',   // 10px

@@ -13,14 +13,13 @@
   </section>
   <section class="md:flex md:justify-between mt-8 xl:mt-12">
     <div>
-      <h1 class="text-xl xl:text-2xl leading-none mb-10">1.4.23: Wir sind umgezogen</h1>
+      <h1 class="text-xl xl:text-2xl leading-none mb-10 font-regular">1.4.23: Wir sind umgezogen</h1>
       <p class="mb-0 leading-snug">Baumberger Stegmeier Architektur<br>Weststrasse 70, CH-8003 Zürich<br>
-        <a href="mailto:info@baumbergerstegmeier.ch">info@baumbergerstegmeier.ch</a><br>
-        <a href="tel:+41435005400">+41 43 500 54 00</a>
+        <a href="mailto:info@baumbergerstegmeier.ch">info@baumbergerstegmeier.ch</a>, <a href="tel:+41435005400">+41 43 500 54 00</a>
       </p>
     </div>
     <div class="flex justify-end mt-10 xl:mt-0">
-      <a href="" class="block w-60 h-34">
+      <a href="https://www.baumbergerstegmeier.ch/" class="block w-60 h-34">
         <x-icon.arrow-right />
       </a>
     </div>

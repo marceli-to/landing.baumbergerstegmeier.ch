@@ -11,7 +11,7 @@ return [
   |
   */
 
-  'title' => 'Baumberger Stegmeier Architekten',
+  'title' => 'Baumberger & Stegmeier Architekturbüro Zürich',
 
   /*
   |--------------------------------------------------------------------------
@@ -22,6 +22,7 @@ return [
   |
   */
 
-  'description' => 'Baumberger Stegmeier Architekten',   
+  'description' => 'Baumberger & Stegmeier Architekturbüro Zürich, B&S, Schweiz, Architekten, Swiss Architects, arch, zh, bauen, bau, beton, umbau, sanierung, Minergie - Segantinistrasse, mfh, wohnen',   
 
 ];
+
