@@ -1,26 +1,26 @@
 {
   "resources/css/web/fonts/ESKlarheitBaumbergerStegmeier-Regular.woff2": {
-    "file": "assets/ESKlarheitBaumbergerStegmeier-Regular-dec87d79.woff2",
+    "file": "assets/ESKlarheitBaumbergerStegmeier-Regular-773be798.woff2",
     "src": "resources/css/web/fonts/ESKlarheitBaumbergerStegmeier-Regular.woff2"
   },
   "resources/css/web/fonts/ESKlarheitBaumbergerStegmeier-Regular.woff": {
-    "file": "assets/ESKlarheitBaumbergerStegmeier-Regular-39794217.woff",
+    "file": "assets/ESKlarheitBaumbergerStegmeier-Regular-301d1cf2.woff",
     "src": "resources/css/web/fonts/ESKlarheitBaumbergerStegmeier-Regular.woff"
   },
   "resources/js/web/app.css": {
-    "file": "assets/app-d1f9f0dd.css",
+    "file": "assets/app-e598f2c2.css",
     "src": "resources/js/web/app.css"
   },
   "resources/js/web/app.js": {
-    "file": "assets/app-0767b385.js",
+    "file": "assets/app-aaf3a80c.js",
     "src": "resources/js/web/app.js",
     "isEntry": true,
     "css": [
-      "assets/app-d1f9f0dd.css"
+      "assets/app-e598f2c2.css"
     ],
     "assets": [
-      "assets/ESKlarheitBaumbergerStegmeier-Regular-dec87d79.woff2",
-      "assets/ESKlarheitBaumbergerStegmeier-Regular-39794217.woff"
+      "assets/ESKlarheitBaumbergerStegmeier-Regular-773be798.woff2",
+      "assets/ESKlarheitBaumbergerStegmeier-Regular-301d1cf2.woff"
     ]
   }
 }
